@@ -4,5 +4,5 @@ A blog application written in Next.js framework and Storyblok for managing the C
 
 The entire application is deployed on [Cloudflare pages](https://pages.cloudflare.com/) while continuous integration with Github and deployment is done using [Deploy Hooks](https://blog.cloudflare.com/introducing-deploy-hooks-for-cloudflare-pages/) for Cloudflare Pages.
 
-A live version of the entire application can be found [here](https://nextjs-storyblok-blog-dc5.pages.dev/)
+A live version of the entire application can be found [here](https://nextjs-storyblok-blog-dc5.pages.dev/) and [here](https://www.storyblok.com/tp/nextjs-cloudflare-deployment) is an article on deploying Next SSG applications with Storyblok to Cloudlfare Pages
 

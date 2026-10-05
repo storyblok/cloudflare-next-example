@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current Next.js + Storyblok starter, use [blueprint-core-nextjs](https://github.com/storyblok/blueprint-core-nextjs).
+
 ## Nextjs-storyblok-blog
 
 A blog application written in Next.js framework and Storyblok for managing the CMS needs. Storyblok is a powerful content manager with a visual editor, built for developers and content editors. You can learn more about Storyblok [here](https://www.storyblok.com/). 
